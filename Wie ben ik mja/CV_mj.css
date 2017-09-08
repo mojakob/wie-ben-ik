@@ -1,0 +1,33 @@
+body {
+	background-image: url("black_light_dark_figures_73356_1920x1080.jpg");
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+ img {
+	border-radius: 15px;
+	height: auto;
+	width: 250px;
+}
+
+h1{
+	color: green;
+}
+
+h2{
+	color: green;
+}
+
+h3{
+	color: green;
+}
+
+p{
+	color: lightblue;
+}
+
+a{
+	color: green;
+}
