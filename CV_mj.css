@@ -6,7 +6,7 @@ body {
 	background-attachment: fixed;
 }
 
- img {
+img {
 	border-radius: 15px;
 	height: auto;
 	width: 250px;
@@ -30,4 +30,8 @@ p{
 
 a{
 	color: green;
+}
+
+.textgroten{
+	font-weight: bold;
 }
